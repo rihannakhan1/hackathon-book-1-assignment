@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "advanced/deployment",
+              "path": "/docs/advanced/deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/performance",
+              "path": "/docs/advanced/performance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/security",
+              "path": "/docs/advanced/security",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-patterns/embeddings",
+              "path": "/docs/ai-patterns/embeddings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-patterns/introduction",
+              "path": "/docs/ai-patterns/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-patterns/rag-basics",
+              "path": "/docs/ai-patterns/rag-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai-patterns/vector-search",
+              "path": "/docs/ai-patterns/vector-search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conclusion",
+              "path": "/docs/conclusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/installation",
+              "path": "/docs/getting-started/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/setup",
+              "path": "/docs/getting-started/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rag-implementation/backend-setup",
+              "path": "/docs/rag-implementation/backend-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rag-implementation/chat-integration",
+              "path": "/docs/rag-implementation/chat-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rag-implementation/data-processing",
+              "path": "/docs/rag-implementation/data-processing",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

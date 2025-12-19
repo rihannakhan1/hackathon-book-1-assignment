@@ -1,0 +1,27 @@
+{
+  "id": "rag-implementation/chat-integration",
+  "title": "Chat Integration",
+  "description": "This section covers integrating the RAG functionality into your chat interface.",
+  "source": "@site/docs/rag-implementation/chat-integration.md",
+  "sourceDirName": "rag-implementation",
+  "slug": "/rag-implementation/chat-integration",
+  "permalink": "/docs/rag-implementation/chat-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/rag-implementation/chat-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Processing",
+    "permalink": "/docs/rag-implementation/data-processing"
+  },
+  "next": {
+    "title": "Security Considerations",
+    "permalink": "/docs/advanced/security"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ai-patterns/vector-search",
+  "title": "Vector Search",
+  "description": "Vector search is a crucial component of RAG systems, enabling semantic similarity matching.",
+  "source": "@site/docs/ai-patterns/vector-search.md",
+  "sourceDirName": "ai-patterns",
+  "slug": "/ai-patterns/vector-search",
+  "permalink": "/docs/ai-patterns/vector-search",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ai-patterns/vector-search.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RAG Basics",
+    "permalink": "/docs/ai-patterns/rag-basics"
+  },
+  "next": {
+    "title": "Embeddings",
+    "permalink": "/docs/ai-patterns/embeddings"
+  }
+}

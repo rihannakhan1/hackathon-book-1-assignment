@@ -1,0 +1,23 @@
+{
+  "id": "conclusion",
+  "title": "Conclusion",
+  "description": "This concludes our comprehensive guide to AI-Spec Driven Technical Book with Embedded RAG Chatbot.",
+  "source": "@site/docs/conclusion.md",
+  "sourceDirName": ".",
+  "slug": "/conclusion",
+  "permalink": "/docs/conclusion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/conclusion.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "sidebar_position": 100
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deployment",
+    "permalink": "/docs/advanced/deployment"
+  }
+}

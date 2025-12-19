@@ -1,0 +1,27 @@
+{
+  "id": "rag-implementation/backend-setup",
+  "title": "Backend Setup",
+  "description": "This guide covers setting up the backend infrastructure for your RAG system.",
+  "source": "@site/docs/rag-implementation/backend-setup.md",
+  "sourceDirName": "rag-implementation",
+  "slug": "/rag-implementation/backend-setup",
+  "permalink": "/docs/rag-implementation/backend-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/rag-implementation/backend-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Embeddings",
+    "permalink": "/docs/ai-patterns/embeddings"
+  },
+  "next": {
+    "title": "Data Processing",
+    "permalink": "/docs/rag-implementation/data-processing"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rag-implementation/data-processing",
+  "title": "Data Processing",
+  "description": "This section covers how to process and index your documents for RAG.",
+  "source": "@site/docs/rag-implementation/data-processing.md",
+  "sourceDirName": "rag-implementation",
+  "slug": "/rag-implementation/data-processing",
+  "permalink": "/docs/rag-implementation/data-processing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/rag-implementation/data-processing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Backend Setup",
+    "permalink": "/docs/rag-implementation/backend-setup"
+  },
+  "next": {
+    "title": "Chat Integration",
+    "permalink": "/docs/rag-implementation/chat-integration"
+  }
+}

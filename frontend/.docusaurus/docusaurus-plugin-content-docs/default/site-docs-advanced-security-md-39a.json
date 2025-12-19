@@ -1,0 +1,27 @@
+{
+  "id": "advanced/security",
+  "title": "Security Considerations",
+  "description": "Security is paramount when implementing AI systems. This section covers key security considerations.",
+  "source": "@site/docs/advanced/security.md",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/security",
+  "permalink": "/docs/advanced/security",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/advanced/security.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chat Integration",
+    "permalink": "/docs/rag-implementation/chat-integration"
+  },
+  "next": {
+    "title": "Performance Optimization",
+    "permalink": "/docs/advanced/performance"
+  }
+}
